@@ -1,0 +1,19 @@
+.fl{
+    float: left;
+    text-align: left;
+}
+.fr{
+    float: right;
+}
+
+.ht{
+    width: 95%;
+}
+
+.htt{
+    width:5%;
+}
+
+.cl {
+    color:wheat;
+}
